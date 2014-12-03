@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/Documents/Templates/xsd/fop.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 (/usr/bin/python-wrapper)" project-jdk-type="Python SDK" />
+</project>
+
